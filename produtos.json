@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Calça Jeans",
+        "tamanho": 42,
+        "preco": 139.99,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Camisa",
+        "tamanho": "G",
+        "preco": 79.99,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Moletom",
+        "tamanho": "G",
+        "preco": 139.99,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Air Jordan",
+        "tamanho": 42,
+        "preco": 800.00,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Calça Moletom",
+        "tamanho": 41,
+        "preco": 129.99,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Camisa de Time",
+        "tamanho": "G",
+        "preco": 99.99,
+        "imagem": "img/teste.jpg"
+    }
+]
